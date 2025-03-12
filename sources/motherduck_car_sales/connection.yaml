@@ -1,0 +1,5 @@
+# This file was automatically generated
+name: motherduck_car_sales
+type: motherduck
+options:
+  database: car_sales
